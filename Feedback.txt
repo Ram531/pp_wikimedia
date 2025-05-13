@@ -1,0 +1,16 @@
+- Prepare a Readme.MD
+- Why certain decisions are taken? (Why I shifted things from Pull or push)
+- How can we do things differently now?
+- What are the cost considerations made and where things made wrong?
+- What would be the next steps for improvement?
+- How to make the things more robust? (Unit tests, etc)
+- Add docstings
+- What are the next directions that will develop this solution? (For example, if a user want to know the number of edits for a particular category, he can feed it to an LLM)
+- Comback 3 months from now, how will you get to speed immediately? What should you read to enable that?
+- Apply GIT principles. Put into a git repo if I want to include this to my portfolio when applying for a job.)
+
+
+
+ALLOCATE A TIME AND A STRICT DEADLINE TO COMPLETE THE ABOVE TASKS. BE VERY STRICT IN THE TIMELINE. CLOSE IT WITH WHATEVER IS DONE BY THAT TIME.
+
+(MONDAY DM DAILY 12:45PM IS THE HARD STOP) for this.
